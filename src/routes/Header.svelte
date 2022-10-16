@@ -25,8 +25,8 @@
 			<li class:active={$page.url.pathname.startsWith('/sverdle')}>
 				<a href="/sverdle">Sverdle</a>
 			</li>
-			<li class:active={$page.url.pathname.startsWith('/garage')}>
-				<a href="/garage">Garage</a>
+			<li class:active={$page.url.pathname.startsWith('/harbour')}>
+				<a href="/harbour">The Harbour</a>
 			</li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
